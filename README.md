@@ -31,6 +31,12 @@
 
 ---
 
+## 🔥 Stats & Atividade
+
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🎮 Projeto em destaque: Busnake
 
 > O clássico jogo da cobrinha... reinventado com **trens** e com o drama de morar em SP!
