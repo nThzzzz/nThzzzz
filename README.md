@@ -34,7 +34,8 @@
 ## 🔥 Stats & Atividade
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nThzzzz">
+  <img src= "https://github.com/nThzzzz/github-readme-stats">
 </p>
 
 ---
