@@ -31,13 +31,6 @@
 
 ---
 
-## 🔥 Stats & Atividade
-
-<div align="center">
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
----
-
 ## 🎮 Projeto em destaque: Busnake
 
 > O clássico jogo da cobrinha... reinventado com **trens** e com o drama de morar em SP!
@@ -53,3 +46,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nThzzzz&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+![snake gif](https://github.com/nThzzzz/nThzzzz/blob/output/github-contribution-grid-snake.svg)
