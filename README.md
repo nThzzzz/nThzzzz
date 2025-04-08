@@ -33,8 +33,9 @@
 
 ## 🔥 Stats & Atividade
 
+<div align="center">
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
 
 ## 🎮 Projeto em destaque: Busnake
