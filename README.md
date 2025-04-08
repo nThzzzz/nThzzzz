@@ -32,12 +32,12 @@
 ## 🔥 Stats & Atividade
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArthurAlves0&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurAlves0&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nThzzzz&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ArthurAlves0&theme=tokyo-night&hide_border=true" />
+  <img width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nThzzzz&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
