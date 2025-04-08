@@ -12,7 +12,6 @@
 🎓 Estudante de Ciência da Computação na FEI (3º Ciclo)  
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
 🧘 Um dos raros que **suportam Java** (e até gostam 😅)  
-🧩 Criador do lendário **Busnake** — o Snake, só que com **trens!** 🚂  
 
 ---
 
@@ -35,12 +34,7 @@
 ## 🔥 Stats & Atividade
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nThzzzz&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nThzzzz&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.cyclic.app/graph?username=nThzzzz&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
