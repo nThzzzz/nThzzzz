@@ -1,9 +1,10 @@
-<!-- Perfil README - Arthur Zanvetor -->
+<!-- Perfil README - Arthur Barbosa Zanvetor -->
 
 <h1 align="center">Hello there 👋</h1>
+<h3 align="center">General Kenobi... 🛸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I'm+Arthur+Alves;Backend+Developer+in+progress...;Computer+Science+Student+%40+FEI;Lover+of+clean+code+and+Java+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I'm+Arthur+Zanvetor;Backend+Developer+in+progress...;Computer+Science+Student+%40+FEI;Lover+of+clean+code+and+Java+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,12 +13,13 @@
 🎓 Estudante de Ciência da Computação na FEI (3º Ciclo)  
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
 🧘 Um dos raros que **suportam Java** (e até gostam 😅)  
+🧩 Criador do lendário **Busnake** — o Snake, só que com **trens!** 🚂  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -44,16 +46,16 @@
 
 ## 🎮 Projeto em destaque: Busnake
 
-> O clássico jogo da cobrinha... reinventado com **trens** e o drama de viver em São Paulo!
+> O clássico jogo da cobrinha... reinventado com **trens** e com o drama de morar em SP!
 
 🧩 Desafios de lógica, movimentação dinâmica e colisão  
 🚄 Segmentos conectados que funcionam como vagões  
-💡 Desenvolvido com HTML, CSS e JavaScript
+💡 Desenvolvido com HTML, CSS e JavaScript 
 
 🔗 [Acesse o repositório do Busnake](https://github.com/nThzzzz/buSnake)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurAlves0&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nThzzzz&style=flat-square&color=blue" alt="profile views" />
 </p>
