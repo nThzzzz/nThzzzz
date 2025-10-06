@@ -9,9 +9,10 @@
 ---
 
 ## 🧠 Sobre mim
-🎓 Estudante de Ciência da Computação na FEI (3º Ciclo)  
+🎓 Estudante de Ciência da Computação na FEI (4º Ciclo)  
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
-🧘 Um dos raros que **suportam Java** (e até gostam 😅)  
+🧘 Um dos raros que **suportam Java** (e até gostam 😅)
+🤖 Capitão da Programação na equipe RoboFEI (Categoria SSL) 
 
 ---
 
