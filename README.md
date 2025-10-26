@@ -30,8 +30,6 @@
 
 ---
 
-🔗 [Acesse o repositório do Busnake](https://github.com/nThzzzz/buSnake)
-
 ---
 
 <p align="center">
