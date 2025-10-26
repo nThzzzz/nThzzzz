@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I'm+Arthur+Zanvetor;Backend+Developer+in+progress...;Computer+Science+Student+%40+FEI;Lover+of+clean+code+and+Java+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=I'm+Arthur+Zanvetor;Backend+Developer+in+progress...;Computer+Science+Student+%40+FEI" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ## 🧠 Sobre mim
 🎓 Estudante de Ciência da Computação na FEI (4º Ciclo)  
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
-🧘 Um dos raros que **suportam Java** (e até gostam 😅)
 🤖 Capitão da Programação na equipe RoboFEI (Categoria SSL) 
 
 ---
@@ -30,14 +29,6 @@
 </p>
 
 ---
-
-## 🎮 Projeto em destaque: Busnake
-
-> O clássico jogo da cobrinha... reinventado com **trens** e com o drama de morar em SP!
-
-🧩 Desafios de lógica, movimentação dinâmica e colisão  
-🚄 Segmentos conectados que funcionam como vagões  
-💡 Desenvolvido com HTML, CSS e JavaScript 
 
 🔗 [Acesse o repositório do Busnake](https://github.com/nThzzzz/buSnake)
 
