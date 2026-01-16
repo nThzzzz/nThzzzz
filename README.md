@@ -9,13 +9,22 @@
 ---
 
 ## 🧠 Sobre mim
-🎓 Estudante de Ciência da Computação na FEI (5º Ciclo)  
-💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
+🎓 Estudante de Ciência da Computação na FEI (5º Ciclo) <br>
+💻 Apaixonado por backend, arquitetura de sistemas e boas práticas <br>
+⌨️ Adotando o **Vim way of life** (e aposentando o mouse) <br>
+🌌 Flutuando de acordo com o universo <br>
+⚔️ Fã de Star Wars (*May the Source be with you*) <br>
+
+--- 
+
+
 
 ---
 
 ## 📂 ~/projects
-- **[Znack]((https://github.com/nThzzzz/znack))**: Snake game clássico e leve, rodando liso no terminal via C++.
+- **[Znack](https://github.com/nThzzzz/znack)**: Snake game clássico e leve, rodando liso no terminal via C++.
+- **[Determinatrix](https://github.com/nThzzzz/Calculadora_v2)**: Calculadora matricial completa (Sistemas Lineares, LU, Inversa) com sistema de login e histórico em C.
+- **[Spotifei](https://github.com/eFeBeele/Spotifei)**: Plataforma de música em Java com gestão de playlists, sistema de favoritos e painel administrativo completo.
 
 ---
 
