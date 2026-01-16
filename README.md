@@ -15,17 +15,6 @@
 🌌 Flutuando de acordo com o universo <br>
 ⚔️ Fã de Star Wars (*May the Source be with you*) <br>
 
---- 
-
-
-
----
-
-## 📂 ~/projects
-- **[Znack](https://github.com/nThzzzz/znack)**: Snake game clássico e leve, rodando liso no terminal via C++.
-- **[Determinatrix](https://github.com/nThzzzz/Calculadora_v2)**: Calculadora matricial completa (Sistemas Lineares, LU, Inversa) com sistema de login e histórico em C.
-- **[Spotifei](https://github.com/eFeBeele/Spotifei)**: Plataforma de música em Java com gestão de playlists, sistema de favoritos e painel administrativo completo.
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas
@@ -42,6 +31,14 @@
 </p>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nThzzzz/nThzzzz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nThzzzz/nThzzzz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nThzzzz/nThzzzz/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nThzzzz&style=flat-square&color=blue" alt="profile views" />
