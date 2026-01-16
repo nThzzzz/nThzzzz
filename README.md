@@ -9,9 +9,8 @@
 ---
 
 ## 🧠 Sobre mim
-🎓 Estudante de Ciência da Computação na FEI (4º Ciclo)  
+🎓 Estudante de Ciência da Computação na FEI (5º Ciclo)  
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas de programação  
-🤖 Capitão da Programação na equipe RoboFEI (Categoria SSL) 
 
 ---
 
