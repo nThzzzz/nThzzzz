@@ -14,6 +14,11 @@
 
 ---
 
+## 📂 ~/projects
+- **[Znack]((https://github.com/nThzzzz/znack))**: Snake game clássico e leve, rodando liso no terminal via C++.
+
+---
+
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
