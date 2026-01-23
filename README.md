@@ -11,8 +11,6 @@
 ## 🧠 Sobre mim
 🎓 Estudante de Ciência da Computação na FEI (5º Ciclo) <br>
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas <br>
-⌨️ Adotando o **Vim way of life** (e aposentando o mouse) <br>
-🌌 Flutuando de acordo com o universo <br>
 ⚔️ Fã de Star Wars (*May the Source be with you*) <br>
 
 ---
