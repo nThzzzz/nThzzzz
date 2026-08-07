@@ -60,6 +60,16 @@
 
 ---
 
+## 🏆 Projetos em Destaque
+
+### [API Maratona](https://github.com/nThzzzz/APImaratona)
+> Backend robusto de alta performance para gerenciar competidores e times de maratonas de programação. Implementa sincronização assíncrona com o **Codeforces**, web scraping customizado e um motor de recomendação inteligente baseado em grafos e Filtro Colaborativo.
+* **Destaques:** Arquitetura com Persistência Poliglota, Clean Code, Transações distribuídas e Autenticação Stateless (JWT).
+* **Tech Stack:** 
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1) ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+
+---
+
 ## 💼 Experiências
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blogdigicad.wordpress.com/wp-content/uploads/2018/09/robofei.png"/>]([https://www.spacex.com/](https://fei.edu.br/robofei/))
