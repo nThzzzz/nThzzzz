@@ -62,7 +62,7 @@
 
 ## 💼 Experiências
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blogdigicad.wordpress.com/wp-content/uploads/2018/09/robofei.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blogdigicad.wordpress.com/wp-content/uploads/2018/09/robofei.png"/>]([https://www.spacex.com/](https://fei.edu.br/robofei/))
 
 **Desenvolvedor de Software** \
 [**RoboFEI**](https://fei.edu.br/robofei/) • 04/2025 - 12/2025 \
