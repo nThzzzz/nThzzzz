@@ -71,6 +71,14 @@ Projetos em destaque: [SSLStrategy](https://gitlab.com/robofei/ssl/SSL-Strategy)
 
 ---
 
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-azanvetor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azanvetor)](https://www.linkedin.com/in/www.linkedin.com/in/azanvetor)
+[![Gmail Badge](https://img.shields.io/badge/-arthurbarbosazanvetor@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurbarbosazanvetor@gmail.com)](mailto:arthurbarbosazanvetor@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/nThzzzz?label=follow&style=social)](https://github.com/nThzzzz/nThzzzz)
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nThzzzz/nThzzzz/output/github-contribution-grid-snake-dark.svg">
