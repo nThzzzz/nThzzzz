@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Sobre mim
-🎓 Estudante de Ciência da Computação na FEI (5º Ciclo) <br>
+🎓 Estudante de Ciência da Computação na FEI (6º Ciclo) <br>
 💻 Apaixonado por backend, arquitetura de sistemas e boas práticas <br>
 ⚔️ Fã de Star Wars (*May the Source be with you*) <br>
 
@@ -17,16 +17,57 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Linguagens**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+
+**Frameworks, Bibliotecas & Ecossistema**
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt&logoColor=41CD52)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=ffffff)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apachecassandra&logoColor=1287B1)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
+![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1)
+
+**DevOps & Controle de Versão**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)
+
+**Ferramentas e Ambientes**
+
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=000000)
+![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=57A143)
+
+---
+
+## 💼 Experiências
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blogdigicad.wordpress.com/wp-content/uploads/2018/09/robofei.png"/>](https://www.spacex.com/)
+
+**Desenvolvedor de Software** \
+[**RoboFEI**](https://fei.edu.br/robofei/) • 04/2025 - 12/2025 \
+Linguagens & Tecnologias: `C++`, `QT Framework`, `Python`\
+Projetos em destaque: [SSLStrategy](https://gitlab.com/robofei/ssl/SSL-Strategy)
 
 ---
 
