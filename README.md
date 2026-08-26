@@ -27,16 +27,14 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=spring,react,qt&theme=dark" height="20" alt="Spring Boot, React, Qt" />
-<img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458" height="20" alt="Pandas" />
-<img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243" height="20" alt="NumPy" />
-<img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=ffffff" height="20" alt="Matplotlib" />
+<img src="https://raw.githubusercontent.com/nThzzzz/nThzzzz/main/assets/icons/data-science.svg" height="20" alt="Pandas, NumPy" />
 </p>
 
 **Banco de Dados**
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=dark" height="20" alt="PostgreSQL, MongoDB, Cassandra, Redis" />
-<img src="https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1" height="20" alt="Neo4j" />
+<img src="https://raw.githubusercontent.com/nThzzzz/nThzzzz/main/assets/icons/neo4j.svg" height="20" alt="Neo4j" />
 </p>
 
 **DevOps, Cloud & Controle de Versão**
@@ -49,7 +47,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=dark" height="20" alt="Visual Studio Code, IntelliJ IDEA, Neovim" />
-<img src="https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00" height="20" alt="Google Colab" />
+<img src="https://raw.githubusercontent.com/nThzzzz/nThzzzz/main/assets/icons/colab.svg" height="20" alt="Google Colab" />
 </p>
 
 ---
@@ -62,7 +60,7 @@
 * **Tech Stack:**
   <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=dark" height="20" alt="Spring Boot, PostgreSQL, Redis, MongoDB, Docker" />
-  <img src="https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1" height="20" alt="Neo4j" />
+  <img src="https://raw.githubusercontent.com/nThzzzz/nThzzzz/main/assets/icons/neo4j.svg" height="20" alt="Neo4j" />
   </p>
 
 ---
