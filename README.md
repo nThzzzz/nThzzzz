@@ -19,54 +19,63 @@
 
 **Linguagens**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,html,css&theme=light" alt="Java, Python, C, C++, C#, JavaScript, HTML5, CSS" />
+</picture>
 
 **Frameworks, Bibliotecas & Ecossistema**
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt&logoColor=41CD52)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,react,qt&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,react,qt&theme=light">
+  <img src="https://skillicons.dev/icons?i=spring,react,qt&theme=light" alt="Spring Boot, React, Qt" />
+</picture>
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=ffffff)
 
 **Banco de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
-![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apachecassandra&logoColor=1287B1)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=light" alt="PostgreSQL, MongoDB, Cassandra, Redis" />
+</picture>
 ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1)
 
-**DevOps & Controle de Versão**
+**DevOps, Cloud & Controle de Versão**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FC6D26)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws&theme=light" alt="Git, GitHub, GitLab, Docker, AWS" />
+</picture>
 
 **Ferramentas e Ambientes**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=light">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=light" alt="Visual Studio Code, IntelliJ IDEA, Neovim" />
+</picture>
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea&logoColor=000000)
-![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=57A143)
 
 ---
 
 ## 🏆 Projetos em Destaque
 
-### [API Maratona](https://github.com/nThzzzz/API-Maratona)
+### [APIMaratona](https://github.com/nThzzzz/APIMaratona)
 > Backend robusto de alta performance para gerenciar competidores e times de maratonas de programação. Implementa sincronização assíncrona com o **Codeforces**, web scraping customizado e um motor de recomendação inteligente baseado em grafos e Filtro Colaborativo.
 * **Destaques:** Arquitetura com Persistência Poliglota, Clean Code, Transações distribuídas e Autenticação Stateless (JWT).
-* **Tech Stack:** 
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1) ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)
+* **Tech Stack:**
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=light">
+    <img src="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=light" alt="Spring Boot, PostgreSQL, Redis, MongoDB, Docker" />
+  </picture>
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1)
 
 ---
 
