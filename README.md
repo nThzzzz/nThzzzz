@@ -32,6 +32,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,react,qt&theme=light">
   <img src="https://skillicons.dev/icons?i=spring,react,qt&theme=light" alt="Spring Boot, React, Qt" />
 </picture>
+
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib&logoColor=ffffff)
@@ -43,6 +44,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=light">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,redis&theme=light" alt="PostgreSQL, MongoDB, Cassandra, Redis" />
 </picture>
+
 ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1)
 
 **DevOps, Cloud & Controle de Versão**
@@ -60,6 +62,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=light">
   <img src="https://skillicons.dev/icons?i=vscode,idea,neovim&theme=light" alt="Visual Studio Code, IntelliJ IDEA, Neovim" />
 </picture>
+
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
 
 ---
@@ -75,6 +78,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=light">
     <img src="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,docker&theme=light" alt="Spring Boot, PostgreSQL, Redis, MongoDB, Docker" />
   </picture>
+
   ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j&logoColor=008CC1)
 
 ---
