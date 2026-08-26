@@ -62,7 +62,7 @@
 
 ## 🏆 Projetos em Destaque
 
-### [API Maratona](https://github.com/nThzzzz/APImaratona)
+### [API Maratona](https://github.com/nThzzzz/API-Maratona)
 > Backend robusto de alta performance para gerenciar competidores e times de maratonas de programação. Implementa sincronização assíncrona com o **Codeforces**, web scraping customizado e um motor de recomendação inteligente baseado em grafos e Filtro Colaborativo.
 * **Destaques:** Arquitetura com Persistência Poliglota, Clean Code, Transações distribuídas e Autenticação Stateless (JWT).
 * **Tech Stack:** 
